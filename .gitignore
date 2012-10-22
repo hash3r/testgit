@@ -17,3 +17,6 @@ CVS
 DerivedData
 .history
 org.eclipse.jdt.core
+testproject/build
+testproject/build/testproject.build/Debug-iphonesimulator/testproject.build/testproject-project-headers.hmap
+testproject/build/testproject.build/Debug-iphonesimulator/testproject.build/testproject.hmap

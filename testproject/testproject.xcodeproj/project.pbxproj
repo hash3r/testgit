@@ -19,6 +19,7 @@
 		409F10B5163541740085C82F /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 409F10B3163541740085C82F /* MainStoryboard.storyboard */; };
 		409F10B8163541740085C82F /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 409F10B7163541740085C82F /* ViewController.m */; };
 		409F10D8163544FA0085C82F /* NewView.m in Sources */ = {isa = PBXBuildFile; fileRef = 409F10D7163544FA0085C82F /* NewView.m */; };
+		409F10E0163546560085C82F /* AnotherNewView.m in Sources */ = {isa = PBXBuildFile; fileRef = 409F10DF163546560085C82F /* AnotherNewView.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -40,6 +41,8 @@
 		409F10B7163541740085C82F /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		409F10D6163544FA0085C82F /* NewView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NewView.h; sourceTree = "<group>"; };
 		409F10D7163544FA0085C82F /* NewView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NewView.m; sourceTree = "<group>"; };
+		409F10DE163546560085C82F /* AnotherNewView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AnotherNewView.h; sourceTree = "<group>"; };
+		409F10DF163546560085C82F /* AnotherNewView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AnotherNewView.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -89,6 +92,8 @@
 				409F10AA163541740085C82F /* AppDelegate.h */,
 				409F10D6163544FA0085C82F /* NewView.h */,
 				409F10D7163544FA0085C82F /* NewView.m */,
+				409F10DE163546560085C82F /* AnotherNewView.h */,
+				409F10DF163546560085C82F /* AnotherNewView.m */,
 				409F10AB163541740085C82F /* AppDelegate.m */,
 				409F10B3163541740085C82F /* MainStoryboard.storyboard */,
 				409F10B6163541740085C82F /* ViewController.h */,
@@ -182,6 +187,7 @@
 				409F10AC163541740085C82F /* AppDelegate.m in Sources */,
 				409F10B8163541740085C82F /* ViewController.m in Sources */,
 				409F10D8163544FA0085C82F /* NewView.m in Sources */,
+				409F10E0163546560085C82F /* AnotherNewView.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
